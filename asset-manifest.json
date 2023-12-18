@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/simple-crud-app/static/css/main.ea2f42fd.css",
-    "main.js": "/simple-crud-app/static/js/main.a0ab1560.js",
-    "static/media/fa-solid-900.ttf": "/simple-crud-app/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
-    "static/media/fa-brands-400.ttf": "/simple-crud-app/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
-    "static/media/fa-solid-900.woff2": "/simple-crud-app/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
-    "static/media/fa-brands-400.woff2": "/simple-crud-app/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
-    "static/media/fa-regular-400.ttf": "/simple-crud-app/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
-    "static/media/fa-regular-400.woff2": "/simple-crud-app/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
-    "static/media/fa-v4compatibility.ttf": "/simple-crud-app/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
-    "static/media/fa-v4compatibility.woff2": "/simple-crud-app/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
-    "index.html": "/simple-crud-app/index.html",
-    "main.ea2f42fd.css.map": "/simple-crud-app/static/css/main.ea2f42fd.css.map",
-    "main.a0ab1560.js.map": "/simple-crud-app/static/js/main.a0ab1560.js.map"
+    "main.css": "/basic-crud-app/static/css/main.de1b746d.css",
+    "main.js": "/basic-crud-app/static/js/main.a0ab1560.js",
+    "static/media/fa-solid-900.ttf": "/basic-crud-app/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/basic-crud-app/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/basic-crud-app/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/basic-crud-app/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/basic-crud-app/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "/basic-crud-app/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/fa-v4compatibility.ttf": "/basic-crud-app/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/basic-crud-app/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/basic-crud-app/index.html",
+    "main.de1b746d.css.map": "/basic-crud-app/static/css/main.de1b746d.css.map",
+    "main.a0ab1560.js.map": "/basic-crud-app/static/js/main.a0ab1560.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea2f42fd.css",
+    "static/css/main.de1b746d.css",
     "static/js/main.a0ab1560.js"
   ]
 }
